@@ -1,2 +1,3 @@
 # project-demo
-this my first git-hub project
+this is my first git-hub project
+author - Mohammed Nawaz
